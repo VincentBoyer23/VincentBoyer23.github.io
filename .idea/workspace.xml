@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc1f7aa1-7024-43f8-abd2-89cee4db0a37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/view/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/view/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="49" column="83" selection-start-line="49" selection-start-column="83" selection-end-line="49" selection-end-column="83" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -77,16 +78,6 @@
               <item name="VincentBoyer23.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="VincentBoyer23.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="VincentBoyer23.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VincentBoyer23.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="ressource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VincentBoyer23.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VincentBoyer23.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -102,6 +93,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vinceduroc\IdeaProjects\VincentBoyer23.github.io" />
       <recent name="C:\Users\vinceduroc\IdeaProjects\VincentBoyer23.github.io\view" />
     </key>
   </component>
@@ -127,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583188984418</updated>
-      <workItem from="1583188985733" duration="2320000" />
+      <workItem from="1583188985733" duration="2562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2320000" />
+    <option name="totallyTimeSpent" value="2562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -183,10 +175,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="49" column="83" selection-start-line="49" selection-start-column="83" selection-end-line="49" selection-end-column="83" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
