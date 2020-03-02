@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vincent BOYER</title>
+    <link rel="stylesheet" href="/ressource/css/bootstrap.min.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#"></a>
+    <!--<img src="{{ asset('/img/logo.png') }}" width="160px" height="50px">-->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+
+            <li class="nav-item">
+                <a class="nav-link" href=#>Ma Photo de Profil</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Règles</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">En Attente</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Mes Photos</a>
+            </li>
+            <!--Affichage de l'onglet administration seulement si l'utilisateur est un administrateur-->
+
+            <!--<li class="nav-item">
+                <a href="#" class="notification nav-link">
+                    <span>Administration</span>
+                    <span class="badge" style="background-color: black;color: white;">
+
+                            {{
+                                App\Models\Photo::where('statut_id', App\Models\Statut::where('libelle', 'en attente')->first()->id)->count()
+                            }}
+                            </span>
+                </a>
+            </li>-->
+
+
+        </ul>
+        <!--<form class="form-inline my-2 my-lg-0" action="{{ url('logout') }}">
+
+            <button class="btn btn-light" type="submit" >Déconnexion</button>
+        </form>-->
+    </div>
+</nav>
+
+Hello world
+
+
+
+<script src="/ressource/js/bootstrap.min.js"></script>
+
+
+</body>
+</html>
