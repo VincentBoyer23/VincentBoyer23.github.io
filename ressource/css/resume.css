@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #6495ED;
+  outline-color: #d48a6e;
 }
 
 @media (min-width: 992px) {
@@ -158,17 +158,17 @@ section.resume-section {
 }
 
 .bg-primary {
-  background-color: #6495ED !important;
+  background-color: #228B22 !important;
 }
 
 .text-primary {
-  color: #6495ED !important;
+  color: #228B22 !important;
 }
 
 a {
-  color: #6495ED;
+  color: #228B22;
 }
 
 a:hover, a:focus, a:active {
-  color: #6495ED;
+  color: #228B22;
 }
