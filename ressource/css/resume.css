@@ -158,17 +158,17 @@ section.resume-section {
 }
 
 .bg-primary {
-  background-color: #228B22 !important;
+  background-color: #7FFFD4
 }
 
 .text-primary {
-  color: #228B22 !important;
+  color: #7FFFD4
 }
 
 a {
-  color: #228B22;
+  color: #7FFFD4;
 }
 
 a:hover, a:focus, a:active {
-  color: #228B22;
+  color: #7FFFD4;
 }
