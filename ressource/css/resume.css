@@ -72,15 +72,15 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #00CED1;
 }
 
 .dev-icons {
   font-size: 3rem;
-}
+}s
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #00CED1;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
