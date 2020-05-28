@@ -54,6 +54,22 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.img-hover-zoom {
+  overflow: hidden;
+}
+
+
+.img-hover-zoom img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.img-hover-zoom:hover img {
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
@@ -72,15 +88,11 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #00CED1;
+  background-color: #00CED9;
 }
 
 .dev-icons {
   font-size: 3rem;
-}s
-
-.dev-icons .list-inline-item i:hover {
-  color: #00CED1;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
