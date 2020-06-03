@@ -41,7 +41,9 @@ h2 {
 h3 {
   font-size: 2rem;
 }
-
+h5 {
+  color: #1020AD;
+}
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
@@ -58,6 +60,12 @@ p.lead {
   overflow: hidden;
 }
 
+
+.carousel-control-next,
+.carousel-control-prev,
+.carousel-indicators{
+  filter: invert(100%);
+}
 
 .img-hover-zoom img {
   -webkit-transform: scale(1);
